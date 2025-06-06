@@ -3,4 +3,4 @@ folium==0.19.7
 pandas==2.2.1
 numpy==1.26.4
 geopy==2.4.1
-streamlit-folium==0.15.1 
+streamlit-folium==0.25.0
