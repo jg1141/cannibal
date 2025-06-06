@@ -113,3 +113,5 @@ if st.session_state.clicked_location:
 if st.button("Clear Selection"):
     st.session_state.clicked_location = None
     st.rerun()
+
+st.write("20250606 1500")
